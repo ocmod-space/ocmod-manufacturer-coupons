@@ -19,12 +19,13 @@ This module does not work and is not supported for stores using the following do
 
 ## Live demo
 * [Admin dashboard](https://demo.ocmod.space/a/admin/index.php?route=extension/module/manufacturer_coupons)
-* [Storefront](https://demo.ocmod.space/a/macbook)
+* [Storefront](https://demo.ocmod.space/a/)
 
 ## How to test
-1. Add the product [**MacBook**](https://demo.ocmod.space/a/macbook) to the cart.
+1. Add the product [**MacBook Pro**](https://demo.ocmod.space/a/macbook-pro) to the cart.
+1. Add the product [**Sony Vaio**](https://demo.ocmod.space/a/sony-vaio) to the cart.
 2. Proceed to checkout.
-3. Apply the coupon code **15APPLE15** to see the manufacturer-based discount in action.
+3. Apply the coupon code **15APPLE15** — the 15% discount will apply only to the MacBook, based on its manufacturer.
 
 ## License
 [End-User License Agreement](../EULA.en.txt)
