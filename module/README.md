@@ -1,16 +1,15 @@
 # Manufacturer Coupons
 
 ## Description
-**Manufacturer Coupons** is an OpenCart extension that adds support for assigning coupons to products from specific manufacturers. The coupon is applied only to items from the selected manufacturers in the cart.
+**Manufacturer Coupons** is an OpenCart extension that aadds support for assigning coupons not only to products and categories, but also to manufacturers, including strict manufacturer-based category filtering. This allows store owners to create targeted promotions for products from specific manufacturers, enhancing marketing strategies and boosting sales.
 
 Compatible with OpenCart 2.3.x (PHP 5.x) and 3.x (PHP ≥ 7.x).
 
 Note: The source code is encrypted. For purchase and licensing information, see the OpenCart Marketplace link in the **Download** section.
 
 ## Features
-* Assign coupons to specific manufacturers.
-* Automatic discount application only to matching manufacturer products.
-* Supports combined rules with products and categories.
+* Assign coupons to specific manufacturers, including strict manufacturer-based category filtering.
+* Single manufacturer mode — coupons are applied only when cart products belong to categories of the selected manufacturer.
 * Fully integrated with default OpenCart coupon logic.
 * No core modifications required.
 * Seamless compatibility with the **Journal** theme.
